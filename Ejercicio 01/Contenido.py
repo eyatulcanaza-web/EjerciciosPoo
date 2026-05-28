@@ -15,7 +15,7 @@ class Pelicula(Contenido):
 
 # FUERA DE LA CLASE 
 # 3 atributos
-mi_peli = Pelicula("Avengers", 180, "Acción")
+mi_peli = Pelicula("Avengers", '180', "Acción")
 
 #acciones 
 print(mi_peli.reproducir())
